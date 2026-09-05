@@ -84,13 +84,7 @@ The goal is to support data-driven intrusion detection by identifying the strong
 
 ### 🔄PSPP Results
 
-Regression Coefficients and P-Values
-
-<img width="600" height="150" alt="image" src="https://github.com/user-attachments/assets/e3e8bdc6-8cc0-44f4-9ff4-0935494558c5" />
-
-<img width="412" height="300" alt="image" src="https://github.com/user-attachments/assets/8b9b0632-502d-4b5e-9ad5-ac702c741879" />
-
-<img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/3c89c796-dc77-42c2-8dfe-ff5ce7b0f3b8" />
+<img width="1193" height="761" alt="LOG PSPP" src="https://github.com/user-attachments/assets/71f0ab5e-a45d-4474-af18-c2c151d6d539" />
 
 ---
 
@@ -112,26 +106,24 @@ Regression Coefficients and P-Values
 
 ### 🔄Orange Results
 
-Model Performance Summary
-<img width="803" height="91" alt="image" src="https://github.com/user-attachments/assets/0ff51391-69bd-4ef5-ab24-f00907a0c53a" />
+## Model Performance Summary
 
-Confusion Matrix
+<img width="595" height="95" alt="MODEL PERFORMANCE" src="https://github.com/user-attachments/assets/2ba0c2ad-0d5f-4970-bb05-d1267e0dddc6" />
+
+
+## Confusion Matrix
 
 <img width="470" height="247" alt="CONFUSION" src="https://github.com/user-attachments/assets/1e95e6fb-8316-4556-bdb9-36e11c31c858" />\
 
-📈ROC Analysis — Attack Not Detected (Target Class 0)
+
+## 📈ROC Analysis — Attack Not Detected (Target Class 0)
 
 <img width="955" height="662" alt="ROC CURVE - T0" src="https://github.com/user-attachments/assets/e06b389a-eeb0-4275-9d3f-0ede5c342eef" />
 
-📈ROC Analysis — Attack Detected (Target Class 1)
+
+## 📈ROC Analysis — Attack Detected (Target Class 1)
 
 <img width="955" height="645" alt="ROC CURVE - T1" src="https://github.com/user-attachments/assets/a07563a0-8002-47d5-a249-0326f7f0a5ce" />
-
-
----
-
-## 📋Results - PSPP vs Orange
-<img width="1530" height="618" alt="image" src="https://github.com/user-attachments/assets/2deb3031-184c-42cd-aec6-2e5b900c702b" />
 
 ---
 
