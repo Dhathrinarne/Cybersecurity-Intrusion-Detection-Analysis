@@ -126,7 +126,12 @@ The goal is to support data-driven intrusion detection by identifying the strong
 <img width="955" height="645" alt="ROC CURVE - T1" src="https://github.com/user-attachments/assets/a07563a0-8002-47d5-a249-0326f7f0a5ce" />
 
 ---
+### Project links
 
+## PSPP - https://1drv.ms/u/c/F483042B9735AAB9/Ad-uLwnPaxFNn2xYoT-wNGo?e=3XZZ8Z
+## Orange - https://1drv.ms/u/c/F483042B9735AAB9/AfP58auMXvVDjd1X_JLJsSg?e=Ck4c95
+
+---
 ### 👨‍💻Business Recommendations
 
 - Prioritize IP reputation score
