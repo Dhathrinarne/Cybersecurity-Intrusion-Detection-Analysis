@@ -29,7 +29,7 @@ The goal is to support data-driven intrusion detection by identifying the strong
 
 **Source:** Kaggle – Cybersecurity Intrusion Detection Dataset
 
-[Uploading cybersecurity_intrusion_data.csv…]()
+## Dataset - https://1drv.ms/x/c/F483042B9735AAB9/AXiDKbdDnKdDuqOfTvn2rl0?e=Cm0vxS
 
 ### Dataset Summary
 
@@ -60,7 +60,6 @@ The goal is to support data-driven intrusion detection by identifying the strong
   - `0` = Normal Session
 
 ---
-
 ## 🛠️Tools & Technologies
 
 | Tool | Purpose |
@@ -71,7 +70,6 @@ The goal is to support data-driven intrusion detection by identifying the strong
 | CSV Dataset | Data Source |
 
 ---
-
 ## 🤖Project Workflow
 
 ### ⚙️PSPP Workflow
@@ -86,8 +84,8 @@ The goal is to support data-driven intrusion detection by identifying the strong
 
 <img width="1193" height="761" alt="LOG PSPP" src="https://github.com/user-attachments/assets/71f0ab5e-a45d-4474-af18-c2c151d6d539" />
 
----
 
+---
 ### ⚙️Orange Workflow
 
 1. Import dataset.
@@ -103,7 +101,7 @@ The goal is to support data-driven intrusion detection by identifying the strong
 
 <img width="1472" height="626" alt="ORANGE WORKFLOW" src="https://github.com/user-attachments/assets/fc7788b8-49a8-4fab-b56e-e81dacce6101" />
 
-
+---
 ### 🔄Orange Results
 
 ## Model Performance Summary
@@ -130,6 +128,8 @@ The goal is to support data-driven intrusion detection by identifying the strong
 
 ## PSPP - https://1drv.ms/u/c/F483042B9735AAB9/Ad-uLwnPaxFNn2xYoT-wNGo?e=3XZZ8Z
 ## Orange - https://1drv.ms/u/c/F483042B9735AAB9/AfP58auMXvVDjd1X_JLJsSg?e=Ck4c95
+## PPT - https://1drv.ms/b/c/F483042B9735AAB9/AfYe7bNs4vRDuX4zErY8ggw?e=WgchIP
+## Document - https://1drv.ms/b/c/F483042B9735AAB9/Ae9s75dWeuxLgQR3LUCunFw?e=hIxNrg
 
 ---
 ### 👨‍💻Business Recommendations
@@ -141,7 +141,6 @@ The goal is to support data-driven intrusion detection by identifying the strong
 - Use a tiered response system
 
 ---
-
 ## 👨‍💻Key Findings
 
 - IP reputation score, failed logins, and login attempts are the strongest predictors. Network packet size and session       duration are not.
