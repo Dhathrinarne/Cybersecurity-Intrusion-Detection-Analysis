@@ -1,4 +1,5 @@
-# Cybersecurity Intrusion Detection Analysis
+# 🎓CAPSTONE PROJECT
+# 🔐Cybersecurity Intrusion Detection Analysis
 
 ![PSPP](https://img.shields.io/badge/PSPP-Statistical%20Analysis-blue)
 ![Orange](https://img.shields.io/badge/Orange-Data%20Mining-orange)
@@ -106,6 +107,9 @@ Regression Coefficients and P-Values
    - Performance Scores
    - Scatter Plot
 
+<img width="1472" height="626" alt="ORANGE WORKFLOW" src="https://github.com/user-attachments/assets/fc7788b8-49a8-4fab-b56e-e81dacce6101" />
+
+
 ### 🔄Orange Results
 
 Model Performance Summary
@@ -113,15 +117,15 @@ Model Performance Summary
 
 Confusion Matrix
 
-<img width="761" height="350" alt="image" src="https://github.com/user-attachments/assets/cb41cef2-82b6-4c99-959f-88a256334620" />
+<img width="470" height="247" alt="CONFUSION" src="https://github.com/user-attachments/assets/1e95e6fb-8316-4556-bdb9-36e11c31c858" />\
 
 📈ROC Analysis — Attack Not Detected (Target Class 0)
 
-<img width="760" height="505" alt="image" src="https://github.com/user-attachments/assets/0c30f5d7-2039-406c-ab4f-2e3259ebc29a" />
+<img width="955" height="662" alt="ROC CURVE - T0" src="https://github.com/user-attachments/assets/e06b389a-eeb0-4275-9d3f-0ede5c342eef" />
 
 📈ROC Analysis — Attack Detected (Target Class 1)
 
-<img width="751" height="490" alt="image" src="https://github.com/user-attachments/assets/0108dbfc-9a82-4ef7-8b08-f34ec16b233b" />
+<img width="955" height="645" alt="ROC CURVE - T1" src="https://github.com/user-attachments/assets/a07563a0-8002-47d5-a249-0326f7f0a5ce" />
 
 
 ---
